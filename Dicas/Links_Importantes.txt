@@ -1,0 +1,20 @@
+GIT:
+https://git-scm.com/download/
+
+Essencial para controle de alterações de arquivos e projetos
+
+GITHUB:
+https://github.com/
+
+Plataforma para hospedagem de códigos-fonte e arquivos com controle de versão usando GIT
+
+DIO:
+https://web.dio.me/home
+
+Plataforma de educação gratuita voltada para mercado TECH. Possui ótimos cursos para auxiliar iniciantes no mercado.
+
+Youtube:
+https://www.youtube.com/
+
+Plataforma de vídeos diversos com vários conteúdos que podem lhe auxiliar para tirar dúvidas
+
